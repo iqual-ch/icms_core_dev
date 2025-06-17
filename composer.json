@@ -1,0 +1,20 @@
+{
+    "name": "iqual/icms_core_dev",
+    "description": "ICMS Core metapackage - development dependencies",
+    "type": "metapackage",
+    "keywords": ["ICMS"],
+    "license": ["GPL-2.0-or-later"],
+    "require": {
+        "drupal/core-dev": "^11",
+        "drupal/default_content": "^2.0@alpha",
+        "drupal/entity_type_clone": "^4.0",
+        "drupal/stage_file_proxy": "^3.1",
+        "kevinquillen/recipe-generator": "^2.0",
+        "mglaman/drupal-check": "^1.4",
+        "palantirnet/drupal-rector": "^0.15.1",
+        "php-parallel-lint/php-parallel-lint": "^1.2",
+        "phpspec/prophecy-phpunit": "^2.0",
+        "weitzman/drupal-test-traits": "^2.1"
+    },
+    "version": "1.x-dev"
+}

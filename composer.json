@@ -11,6 +11,7 @@
         "drupal/devel": "^5.1",
         "drupal/devel_entity_updates": "5.0.x-dev@dev",
         "drupal/entity_type_clone": "^4.0",
+        "drupal/quick_node_clone": "^1.22",
         "drupal/stage_file_proxy": "^3.1",
         "kevinquillen/recipe-generator": "^2.0",
         "mglaman/drupal-check": "^1.4",

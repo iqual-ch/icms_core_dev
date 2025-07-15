@@ -2,8 +2,12 @@
     "name": "iqual/icms_core_dev",
     "description": "ICMS Core metapackage - development dependencies",
     "type": "metapackage",
-    "keywords": ["ICMS"],
-    "license": ["GPL-2.0-or-later"],
+    "keywords": [
+        "ICMS"
+    ],
+    "license": [
+        "GPL-2.0-or-later"
+    ],
     "require": {
         "drupal/config_patch_gitlab_api": "^3.0@alpha",
         "drupal/core-dev": "^11",

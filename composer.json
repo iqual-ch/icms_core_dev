@@ -10,7 +10,7 @@
     ],
     "require": {
         "drupal/config_patch_gitlab_api": "^3.0@alpha",
-        "drupal/core-dev": "^11",
+        "drupal/core-dev": "11.2.6",
         "drupal/default_content": "^2.0@alpha",
         "drupal/devel": "^5.1",
         "drupal/devel_entity_updates": "5.0.x-dev@dev",
@@ -28,12 +28,7 @@
     },
     "extra": {
         "patches": {
-            "drupal/entity_type_clone": {
-                "D11 compatibility": "https://git.drupalcode.org/project/entity_type_clone/-/merge_requests/11.diff"
-            },
-            "drupal/devel_entity_updates": {
-                "#3454902 D11": "patches/3454902-devel_entity_update-d11.diff"
-            }
+
         }
     },
     "version": "1.x-dev"

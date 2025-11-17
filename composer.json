@@ -10,7 +10,7 @@
     ],
     "require": {
         "drupal/config_patch_gitlab_api": "^3.0@alpha",
-        "drupal/core-dev": "11.2.6",
+        "drupal/core-dev": "11.2.8",
         "drupal/default_content": "^2.0@alpha",
         "drupal/devel": "^5.1",
         "drupal/devel_entity_updates": "5.0.x-dev@dev",

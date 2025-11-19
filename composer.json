@@ -27,9 +27,7 @@
         "weitzman/drupal-test-traits": "^2.1"
     },
     "extra": {
-        "patches": {
-
-        }
+        "patches": {}
     },
-    "version": "1.x-dev"
+    "version": "1.4.0"
 }
